@@ -1,12 +1,5 @@
-# NLP
 nltk==3.8.1
-
-# ML
-scikit-learn==1.4.2
-numpy==1.26.4
-
-# Web app
+scikit-learn==1.6.1
+numpy==2.2.4
 streamlit==1.45.1
-
-# Utilities
 colorama==0.4.6
