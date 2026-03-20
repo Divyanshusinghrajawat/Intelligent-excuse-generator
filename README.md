@@ -357,23 +357,11 @@ Will update you soon 🙏
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is built purely for educational purposes to demonstrate
-NLP, prompt engineering, and automated text generation techniques.
-The authors do not encourage dishonesty or misuse of generated content.
-Always provide genuine documentation when required.
-
----
-
 ## 👨‍💻 Author
 
 **Divyanshu**
 B.Tech Computer Science (2nd Year)
-Internship Capstone Project
 
 Built with Python · spaCy · NLTK · scikit-learn · ipywidgets · Jupyter
 
 ---
-
-*If you found this project useful, consider starring the repository!*
