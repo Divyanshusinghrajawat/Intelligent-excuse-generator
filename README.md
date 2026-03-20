@@ -1,7 +1,7 @@
 # 🎭 Intelligent Excuse Generator
 > An AI-powered, NLP-driven Python application that generates context-aware,
 > realistic and customizable excuses — with believability scoring, proof
-> suggestions, and multi-format output. Built as an internship capstone project.
+> suggestions, and multi-format output.
 
 ---
 
