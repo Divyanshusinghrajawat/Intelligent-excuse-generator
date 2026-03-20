@@ -1,20 +1,11 @@
-# Python version: 3.11
-
-# Core NLP
-spacy==3.7.4
+# NLP
 nltk==3.8.1
-
-# spaCy model
+spacy==3.7.4
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
 
-# Machine Learning
+# ML
 scikit-learn==1.4.2
 numpy==1.26.4
-
-# Notebook UI
-ipywidgets==8.1.0
-jupyter==1.0.0
-notebook==7.0.0
 
 # Web app
 streamlit==1.45.1
