@@ -103,9 +103,17 @@ with st.sidebar:
     st.divider()
     st.markdown("**About**")
     st.caption(
-        "Built with Python · spaCy · NLTK · "
+        "Built with Python · NLTK · "
         "scikit-learn · Streamlit  \n"
-        "Internship Capstone Project"
+        "All processing is done locally on your machine by D S R"
+    )
+    st.divider()
+    st.markdown(
+        "<div style='text-align:center;'>"
+        "<span style='font-size:13px;color:gray;'>Made with ❤️ by</span><br>"
+        "<span style='font-size:18px;font-weight:600;'>Divyanshu</span>"
+        "</div>",
+        unsafe_allow_html=True
     )
 
 # ── Quick Fill ────────────────────────────────────────────────
