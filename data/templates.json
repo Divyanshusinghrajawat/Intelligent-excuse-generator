@@ -1,0 +1,106 @@
+{
+  "academic": {
+    "teacher": [
+      "I sincerely apologize for {issue}. I experienced a sudden {event} that made it impossible to {action} on time. I am fully committed to submitting the work by {new_deadline} and ensuring this does not recur.",
+      "I regret to inform you that {issue} was caused by an unexpected {event}. I have already {recovery_action} and will ensure {action} is completed by {new_deadline}.",
+      "Due to an unforeseen {event}, I was unable to {action}. I have {recovery_action} and request a brief extension until {new_deadline}.",
+      "I wanted to bring to your attention that {issue} occurred due to a {event} beyond my control. I take full responsibility and will {action} at the earliest opportunity."
+    ],
+    "parent": [
+      "I couldn't {action} because there was a {event} that came up unexpectedly. I've already {recovery_action} to fix it.",
+      "Something came up — there was a {event} and I got stuck dealing with it. I'll definitely {action} by {new_deadline}.",
+      "I know this looks bad, but the {event} was completely out of my hands. I'm handling it and will {action} soon."
+    ],
+    "friend": [
+      "Bro, the {event} hit me out of nowhere and I couldn't {action}. My bad, sorting it out now.",
+      "Yaar, {event} happened and everything went sideways. Couldn't {action} because of it, sorry!",
+      "Not gonna lie, {event} completely wrecked my plans. Couldn't {action} at all."
+    ]
+  },
+  "professional": {
+    "boss": [
+      "I want to flag that {issue} due to an unexpected {event}. I have already {recovery_action} and the revised timeline for {action} is {new_deadline}. I will keep you posted on progress.",
+      "Please accept my apologies regarding {issue}. A {event} arose that required immediate attention. I have {recovery_action} and am on track to {action} by {new_deadline}.",
+      "I wanted to proactively communicate that {issue} has occurred due to {event}. I have {recovery_action} and expect full resolution by {new_deadline}."
+    ],
+    "colleague": [
+      "Hey, just a heads-up — {issue} because of a {event} that came up. I've {recovery_action} and should be able to {action} by {new_deadline}.",
+      "Sorry about {issue}! Had a {event} situation. Already {recovery_action} — will {action} ASAP.",
+      "Quick update: {event} caused {issue}. I'm handling it and will {action} by {new_deadline}."
+    ],
+    "client": [
+      "We sincerely apologize for {issue}. An unexpected {event} impacted our timeline. We have already {recovery_action} and can confirm {action} by {new_deadline}. We value your partnership.",
+      "Please accept our apologies for the inconvenience caused by {issue}. Due to {event}, we experienced delays. Our team has {recovery_action} and {action} is scheduled by {new_deadline}."
+    ]
+  },
+  "social": {
+    "friend": [
+      "I'm so sorry I couldn't make it! There was a {event} and I genuinely couldn't {action}. Let's reschedule — I'll make it up to you!",
+      "I feel terrible about {issue}. The {event} happened last minute and I couldn't get out of it. Can we plan something else?",
+      "Yaar sorry yaar! {event} happened suddenly. Couldn't {action} at all. Next time I'm definitely there!"
+    ],
+    "parent": [
+      "I'm really sorry, there was a {event} and I couldn't {action}. I should have called sooner, I know.",
+      "Something unexpected came up — a {event}. I didn't mean to worry you, I'll {action} soon."
+    ],
+    "partner": [
+      "I'm so sorry. There was a {event} and I couldn't {action}. I feel awful about it and I'll make it up to you.",
+      "I know this isn't okay and I'm genuinely sorry. The {event} kept me from {action}. I'll fix this."
+    ]
+  },
+  "emergency": {
+    "any": [
+      "I am facing an emergency situation involving a {event}. I am unable to {action} at this time and will provide an update as soon as the situation is under control.",
+      "URGENT: Due to an unexpected {event}, I am currently unable to {action}. I will reach out immediately once the situation stabilizes.",
+      "I deeply regret this last-minute notice. An emergency {event} has come up that requires my immediate attention. I will {action} as soon as I am able."
+    ]
+  },
+  "context_variables": {
+    "events": {
+      "academic": [
+        "medical emergency", "power outage", "family health crisis",
+        "internet connectivity failure", "sudden illness", "bereavement",
+        "system crash", "unexpected hospital visit"
+      ],
+      "professional": [
+        "server outage", "critical production incident", "family medical emergency",
+        "travel disruption", "health issue", "urgent client escalation",
+        "infrastructure failure", "severe weather disruption"
+      ],
+      "social": [
+        "family emergency", "sudden illness", "unavoidable prior commitment",
+        "vehicle breakdown", "medical situation", "work emergency"
+      ],
+      "emergency": [
+        "medical emergency", "family crisis", "accident",
+        "critical emergency", "urgent personal situation"
+      ]
+    },
+    "recovery_actions": {
+      "academic": [
+        "notified the relevant parties",
+        "begun recovery of my work",
+        "made arrangements to catch up",
+        "spoken with classmates for notes",
+        "drafted a recovery plan"
+      ],
+      "professional": [
+        "looped in the team",
+        "initiated the incident response protocol",
+        "communicated with all stakeholders",
+        "prepared a mitigation plan",
+        "arranged for coverage"
+      ],
+      "social": [
+        "reached out to let everyone know",
+        "made alternative arrangements",
+        "informed the relevant people"
+      ],
+      "emergency": [
+        "notified the necessary people",
+        "made arrangements",
+        "ensured things are covered in my absence"
+      ]
+    }
+  }
+}
